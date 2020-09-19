@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58641538-85e1-468f-8153-c35994f6e4da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VgUZ9NrGGEV30qsvZd2RY35qge" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_programming" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\static\img" />
+      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\static\css" />
+      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\static\js" />
+      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\models" />
+      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\models" />
+      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\templates" />
+      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\tools" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go" type="PythonConfigurationType" factoryName="Python">
+      <module name="pytello" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58641538-85e1-468f-8153-c35994f6e4da" name="Default Changelist" comment="" />
+      <created>1577674285652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577674285652</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="394" y="280" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591429118602">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="394" y="280" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1591429118602" />
+    <state x="499" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585735418974">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="499" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1585735418974" />
+    <state x="532" y="238" key="FileChooserDialogImpl" timestamp="1591429194932">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="532" y="238" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1591429194932" />
+    <state width="1194" height="224" key="GridCell.Tab.0.bottom" timestamp="1588773496711">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1194" height="224" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1588773496711" />
+    <state width="1194" height="224" key="GridCell.Tab.0.center" timestamp="1588773496710">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1194" height="224" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1588773496710" />
+    <state width="1194" height="224" key="GridCell.Tab.0.left" timestamp="1588773496709">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1194" height="224" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1588773496709" />
+    <state width="1194" height="224" key="GridCell.Tab.0.right" timestamp="1588773496710">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1194" height="224" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1588773496710" />
+    <state x="453" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1591428808105">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="453" y="307" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1591428808105" />
+  </component>
+</project>
