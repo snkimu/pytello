@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58641538-85e1-468f-8153-c35994f6e4da" name="Default Changelist" comment="" />
+    <list default="true" id="" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +15,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1VgUZ9NrGGEV30qsvZd2RY35qge" />
+  <component name="ProjectId" id="" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,16 +29,16 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\static\img" />
-      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\static\css" />
-      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\static\js" />
-      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\models" />
-      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\tools" />
+      <recent name="hoge\pytello\droneapp\static\img" />
+      <recent name="hoge\pytello\droneapp\static\css" />
+      <recent name="hoge\pytello\droneapp\static\js" />
+      <recent name="hoge\pytello\droneapp\models" />
+      <recent name="hoge\pytello\tools" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\models" />
-      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\droneapp\templates" />
-      <recent name="C:\Users\Satsuki Yabuta\PycharmProjects\pytello\tools" />
+      <recent name="hoge\pytello\droneapp\models" />
+      <recent name="hoge\pytello\droneapp\templates" />
+      <recent name="hoge\pytello\tools" />
     </key>
   </component>
   <component name="RunManager">
@@ -81,11 +81,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="58641538-85e1-468f-8153-c35994f6e4da" name="Default Changelist" comment="" />
-      <created>1577674285652</created>
+      <changelist id="" name="Default Changelist" comment="" />
+      <created>num</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1577674285652</updated>
+      <updated>num</updated>
     </task>
     <servers />
   </component>
